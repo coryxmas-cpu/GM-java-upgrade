@@ -3,7 +3,6 @@ import org.openmainframeproject.cobolcheck.features.launcher.Formatter.DataTrans
 import org.openmainframeproject.cobolcheck.features.launcher.Formatter.DataTransferObjects.DataTransferObjectStyle;
 import org.openmainframeproject.cobolcheck.services.filehelpers.EncodingIO;
 
-import javax.swing.text.html.HTMLWriter;
 import java.io.IOException;
 import java.io.Writer;
 
