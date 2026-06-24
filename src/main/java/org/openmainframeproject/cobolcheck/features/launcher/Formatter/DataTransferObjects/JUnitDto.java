@@ -3,7 +3,7 @@ package org.openmainframeproject.cobolcheck.features.launcher.Formatter.DataTran
 //Generated from https://jsonformatter.org/ (with some alterations)
 // based on XML from: https://llg.cubic.org/docs/junit/
 
-import javax.xml.bind.annotation.*;
+import jakarta.xml.bind.annotation.*;
 import java.util.ArrayList;
 import java.util.List;
 
